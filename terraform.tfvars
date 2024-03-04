@@ -1,2 +1,2 @@
-resource_group_name="cloud-shell-storage-centralindia"
+resource_group_name="cloud-shell-storage-centralindia-new"
 location="centralindia"
