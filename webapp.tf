@@ -6,7 +6,7 @@ resource "azurerm_resource_group" "rg" {
 
 # Create the Linux App Service Plan
 resource "azurerm_service_plan" "appserviceplan" {
-  name                = "myapp-service-plan"
+  name                = "myapp-service-plan-anurag"
   location            = azurerm_resource_group.rg.location
   resource_group_name = azurerm_resource_group.rg.name
   os_type             = "Linux"
