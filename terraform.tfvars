@@ -1,2 +1,2 @@
-resource_group_name="cloud-shell-storage-centralindia-new-anurag"
+resource_group_name="cloud-shell-storage-centralindia-new"
 location="eastus"
