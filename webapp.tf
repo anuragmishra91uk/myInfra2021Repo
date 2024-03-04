@@ -1,6 +1,6 @@
 # Create the resource group
 resource "azurerm_resource_group" "rg" {
-  name     = "cloud-shell-storage-centralindia-new"
+  name     = var.resourcegroup_name
   location = "eastus"
 }
 
